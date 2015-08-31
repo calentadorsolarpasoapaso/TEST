@@ -1,8 +1,8 @@
 Line1 Changed
-Line2
+Line2 Changed
 Line 3
 Line 5
-
+ADDED LINE
 Line 7
 
 Line 9
